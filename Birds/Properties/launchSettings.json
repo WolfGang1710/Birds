@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Birds (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Birds (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
